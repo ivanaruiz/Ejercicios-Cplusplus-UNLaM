@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1588532892 source:c:\users\meli\desktop\c++\sobrecargaoperadorsuma\src\pareja.cpp
+	"Pareja.h"
+
+1588532674 c:\users\meli\desktop\c++\sobrecargaoperadorsuma\include\pareja.h
+	<iostream>
+	<stdlib.h>
+
+1588532987 source:c:\users\meli\desktop\c++\sobrecargaoperadorsuma\main.cpp
+	"Pareja.h"
+
+1597286965 source:c:\users\meli\desktop\desktop\c++\sobrecargaoperadorsuma\main.cpp
+	"Pareja.h"
+
+1597287458 c:\users\meli\desktop\desktop\c++\sobrecargaoperadorsuma\include\pareja.h
+	<iostream>
+	<stdlib.h>
+
+1597287450 source:c:\users\meli\desktop\desktop\c++\sobrecargaoperadorsuma\src\pareja.cpp
+	"Pareja.h"
+

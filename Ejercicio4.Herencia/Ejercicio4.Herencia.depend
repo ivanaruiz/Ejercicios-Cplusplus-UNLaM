@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1587425385 source:c:\users\ra y ma.rayma-pc\desktop\c++\ejercicio4.herencia\src\persona.cpp
+	"Persona.h"
+
+1587425413 c:\users\ra y ma.rayma-pc\desktop\c++\ejercicio4.herencia\include\persona.h
+	<iostream>
+
+1587425468 source:c:\users\ra y ma.rayma-pc\desktop\c++\ejercicio4.herencia\src\alumno.cpp
+	"Alumno.h"
+
+1587425485 c:\users\ra y ma.rayma-pc\desktop\c++\ejercicio4.herencia\include\alumno.h
+	"Persona.h"
+
+1587425532 source:c:\users\ra y ma.rayma-pc\desktop\c++\ejercicio4.herencia\main.cpp
+	"Persona.h"
+	"Alumno.h"
+
+1597258745 source:c:\users\meli\desktop\desktop\c++\ejercicio4.herencia\main.cpp
+	"Persona.h"
+	"Alumno.h"
+
+1597258298 c:\users\meli\desktop\desktop\c++\ejercicio4.herencia\include\persona.h
+	<stdlib.h>
+	<iostream>
+
+1597258409 c:\users\meli\desktop\desktop\c++\ejercicio4.herencia\include\alumno.h
+	"Persona.h"
+
+1597258484 source:c:\users\meli\desktop\desktop\c++\ejercicio4.herencia\src\alumno.cpp
+	"Alumno.h"
+
+1597258353 source:c:\users\meli\desktop\desktop\c++\ejercicio4.herencia\src\persona.cpp
+	"Persona.h"
+

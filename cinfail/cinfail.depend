@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1587825869 source:c:\users\meli\desktop\cinfail\main.cpp
+	<iostream>
+
+1597197836 source:c:\users\meli\desktop\desktop\c++\cinfail\main.cpp
+	<iostream>
+	<stdlib.h>
+

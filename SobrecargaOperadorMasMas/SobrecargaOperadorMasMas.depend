@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1588643870 source:c:\users\meli\desktop\c++\sobrecargaoperadormasmas\main.cpp
+	"Test.h"
+
+1588643978 c:\users\meli\desktop\c++\sobrecargaoperadormasmas\include\test.h
+	<iostream>
+
+1588643953 source:c:\users\meli\desktop\c++\sobrecargaoperadormasmas\src\test.cpp
+	"Test.h"
+
+1597362372 source:c:\users\meli\desktop\desktop\c++\sobrecargaoperadormasmas\main.cpp
+	"Test.h"
+
+1597362516 c:\users\meli\desktop\desktop\c++\sobrecargaoperadormasmas\include\test.h
+	<iostream>
+	<stdlib.h>
+
+1597362546 source:c:\users\meli\desktop\desktop\c++\sobrecargaoperadormasmas\src\test.cpp
+	"Test.h"
+

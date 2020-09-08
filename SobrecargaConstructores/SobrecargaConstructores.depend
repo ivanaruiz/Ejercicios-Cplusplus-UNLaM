@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1588454791 source:c:\users\meli\desktop\c++\sobrecargaconstructores\src\tiempo.cpp
+	"Tiempo.h"
+
+1588455571 c:\users\meli\desktop\c++\sobrecargaconstructores\include\tiempo.h
+	<iostream>
+	<stdlib.h>
+
+1588455571 source:c:\users\meli\desktop\c++\sobrecargaconstructores\main.cpp
+	"Tiempo.h"
+
+1588455571 source:c:\users\meli\desktop\desktop\c++\sobrecargaconstructores\main.cpp
+	"Tiempo.h"
+
+1588455571 c:\users\meli\desktop\desktop\c++\sobrecargaconstructores\include\tiempo.h
+	<iostream>
+	<stdlib.h>
+

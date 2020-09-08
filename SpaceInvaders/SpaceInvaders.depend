@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1595614407 source:c:\users\meli\desktop\desktop\c++\spaceinvaders\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"list"
+	"Name.h"
+	"Asteroide.h"
+	"Bala.h"
+	"funciones.h"
+
+1595614894 c:\users\meli\desktop\desktop\c++\spaceinvaders\include\name.h
+	<stdio.h>
+	<iostream>
+
+1595541770 source:c:\users\meli\desktop\desktop\c++\spaceinvaders\funciones.cpp
+	"Name.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"Name.h"
+
+1595614940 source:c:\users\meli\desktop\desktop\c++\spaceinvaders\src\name.cpp
+	"Name.h"
+
+1595608705 c:\users\meli\desktop\desktop\c++\spaceinvaders\include\asteroide.h
+	"Name.h"
+
+1595608740 source:c:\users\meli\desktop\desktop\c++\spaceinvaders\src\asteroide.cpp
+	"Asteroide.h"
+
+1595571046 source:c:\users\meli\desktop\desktop\c++\spaceinvaders\src\bala.cpp
+	"Bala.h"
+
+1595571026 c:\users\meli\desktop\desktop\c++\spaceinvaders\include\bala.h
+
+1595570698 c:\users\meli\desktop\desktop\c++\spaceinvaders\funciones.h
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1597455721 source:c:\users\meli\desktop\desktop\c++\numeroracional\src\racional.cpp
+	"Racional.h"
+
+1597455292 c:\users\meli\desktop\desktop\c++\numeroracional\include\racional.h
+	<iostream>
+	<stdlib.h>
+
+1590986812 source:c:\users\meli\desktop\desktop\c++\numeroracional\main.cpp
+	"Racional.h"
+

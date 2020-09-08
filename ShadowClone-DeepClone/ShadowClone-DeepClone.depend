@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1590455539 source:c:\users\meli\desktop\desktop\c++\shadowclone-deepclone\src\numero.cpp
+	"Numero.h"
+
+1597456937 c:\users\meli\desktop\desktop\c++\shadowclone-deepclone\include\numero.h
+	<iostream>
+	<stdlib.h>
+
+1597458858 source:c:\users\meli\desktop\desktop\c++\shadowclone-deepclone\main.cpp
+	"Numero.h"
+	"Number.h"
+
+1597458951 source:c:\users\meli\desktop\desktop\c++\shadowclone-deepclone\src\number.cpp
+	"Number.h"
+
+1597458925 c:\users\meli\desktop\desktop\c++\shadowclone-deepclone\include\number.h
+	<iostream>
+	<stdlib.h>
+

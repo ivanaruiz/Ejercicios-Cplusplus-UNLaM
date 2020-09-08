@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1588658281 source:c:\users\meli\desktop\c++\sobrecargasuma\src\alumno.cpp
+	"Alumno.h"
+
+1589085486 c:\users\meli\desktop\c++\sobrecargasuma\include\alumno.h
+	<iostream>
+	<stdlib.h>
+
+1588658035 source:c:\users\meli\desktop\c++\sobrecargasuma\main.cpp
+	"Alumno.h"
+
+1588658035 source:c:\users\meli\desktop\desktop\c++\sobrecargasuma\main.cpp
+	"Alumno.h"
+
+1597289815 c:\users\meli\desktop\desktop\c++\sobrecargasuma\include\alumno.h
+	<iostream>
+	<stdlib.h>
+
+1597289772 source:c:\users\meli\desktop\desktop\c++\sobrecargasuma\src\alumno.cpp
+	"Alumno.h"
+

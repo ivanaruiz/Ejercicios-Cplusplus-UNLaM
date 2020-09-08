@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1588457526 source:c:\users\meli\desktop\c++\destructor\main.cpp
+	"Perro.h"
+
+1588457550 source:c:\users\meli\desktop\c++\destructor\src\perro.cpp
+	"Perro.h"
+
+1588455927 c:\users\meli\desktop\c++\destructor\include\perro.h
+	<stdlib.h>
+	<iostream>
+
+1588457550 source:c:\users\meli\desktop\desktop\c++\destructor\src\perro.cpp
+	"Perro.h"
+
+1588455927 c:\users\meli\desktop\desktop\c++\destructor\include\perro.h
+	<stdlib.h>
+	<iostream>
+

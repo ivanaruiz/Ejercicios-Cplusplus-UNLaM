@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1597260370 source:c:\users\meli\desktop\desktop\c++\staticint.contador\main.cpp
+	"Persona.h"
+
+1597260313 c:\users\meli\desktop\desktop\c++\staticint.contador\include\persona.h
+	<iostream>
+	<stdlib.h>
+
+1597260338 source:c:\users\meli\desktop\desktop\c++\staticint.contador\src\persona.cpp
+	"Persona.h"
+

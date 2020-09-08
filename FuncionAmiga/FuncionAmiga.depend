@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1588548488 source:c:\users\meli\desktop\c++\funcionamiga\main.cpp
+	"Persona.h"
+
+1588546520 c:\users\meli\desktop\c++\funcionamiga\include\test.h
+	<iostream>
+	<stdlib.h>
+
+1588546457 source:c:\users\meli\desktop\c++\funcionamiga\src\test.cpp
+	"Test.h"
+
+1588547453 source:c:\users\meli\desktop\c++\funcionamiga\src\numero.cpp
+	"Numero.h"
+
+1588548000 c:\users\meli\desktop\c++\funcionamiga\include\numero.h
+	<iostream>
+	<stdlib.h>
+
+1588548909 c:\users\meli\desktop\c++\funcionamiga\include\persona.h
+	<iostream>
+	<stdlib.h>
+
+1588548909 source:c:\users\meli\desktop\c++\funcionamiga\src\persona.cpp
+	"Persona.h"
+
+1597279697 source:c:\users\meli\desktop\desktop\c++\funcionamiga\main.cpp
+	"Persona.h"
+
+1597279678 c:\users\meli\desktop\desktop\c++\funcionamiga\include\persona.h
+	<iostream>
+	<stdlib.h>
+
+1597279611 source:c:\users\meli\desktop\desktop\c++\funcionamiga\src\persona.cpp
+	"Persona.h"
+

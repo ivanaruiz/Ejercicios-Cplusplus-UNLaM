@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1589756691 source:c:\users\meli\desktop\desktop\c++\movercaracter\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+

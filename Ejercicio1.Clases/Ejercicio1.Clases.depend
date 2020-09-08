@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1587417106 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio1.clases\main.cpp
+	"Persona.h"
+
+1587417159 c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio1.clases\include\persona.h
+	<iostream>
+	<stdlib.h>
+
+1587417132 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio1.clases\src\persona.cpp
+	"Persona.h"
+
+1587417106 source:c:\users\ra y ma.rayma-pc\desktop\c++\ejercicio1.clases\main.cpp
+	"Persona.h"
+
+1587417159 c:\users\ra y ma.rayma-pc\desktop\c++\ejercicio1.clases\include\persona.h
+	<iostream>
+	<stdlib.h>
+
+1587417132 source:c:\users\ra y ma.rayma-pc\desktop\c++\ejercicio1.clases\src\persona.cpp
+	"Persona.h"
+
+1587417108 source:c:\users\meli\desktop\c++\ejercicio1.clases\main.cpp
+	"Persona.h"
+
+1587417160 c:\users\meli\desktop\c++\ejercicio1.clases\include\persona.h
+	<iostream>
+	<stdlib.h>
+
+1587417134 source:c:\users\meli\desktop\c++\ejercicio1.clases\src\persona.cpp
+	"Persona.h"
+
+1597189444 source:c:\users\meli\desktop\desktop\c++\ejercicio1.clases\main.cpp
+	"Persona.h"
+
+1597189311 c:\users\meli\desktop\desktop\c++\ejercicio1.clases\include\persona.h
+	<iostream>
+	<stdlib.h>
+
+1597189402 source:c:\users\meli\desktop\desktop\c++\ejercicio1.clases\src\persona.cpp
+	"Persona.h"
+

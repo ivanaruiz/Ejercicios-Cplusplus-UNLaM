@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1597686248 source:c:\users\meli\desktop\desktop\c++\ea2-prismav3\main.cpp
+	"main.h"
+
+1597683104 c:\users\meli\desktop\desktop\c++\ea2-prismav3\main.h
+	<iostream>
+	<stdlib.h>
+	"Prisma.h"
+
+1597683166 c:\users\meli\desktop\desktop\c++\ea2-prismav3\include\prisma.h
+	<iostream>
+	<string>
+
+1597686584 source:c:\users\meli\desktop\desktop\c++\ea2-prismav3\src\prismaexception.cpp
+	"PrismaException.h"
+
+1597686587 c:\users\meli\desktop\desktop\c++\ea2-prismav3\include\prismaexception.h
+	<iostream>
+
+1597687010 source:c:\users\meli\desktop\desktop\c++\ea2-prismav3\src\prisma.cpp
+	"Prisma.h"
+	"PrismaException.h"
+

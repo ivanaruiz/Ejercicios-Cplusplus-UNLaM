@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1588369535 source:c:\users\meli\desktop\c++\ejercicio.puntos\main.cpp
+	<iostream>
+	"Punto.h"
+
+1588369581 c:\users\meli\desktop\c++\ejercicio.puntos\include\punto.h
+
+1588369581 source:c:\users\meli\desktop\c++\ejercicio.puntos\src\punto.cpp
+	"Punto.h"
+
+1597197199 source:c:\users\meli\desktop\desktop\c++\ejercicio.puntos\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Punto.h"
+
+1597196975 c:\users\meli\desktop\desktop\c++\ejercicio.puntos\include\punto.h
+
+1597197132 source:c:\users\meli\desktop\desktop\c++\ejercicio.puntos\src\punto.cpp
+	"Punto.h"
+

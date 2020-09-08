@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1587421688 source:c:\users\ra y ma.rayma-pc\desktop\c++\ejercicio3.clases\main.cpp
+	<iostream>
+	<stdlib.h>
+
+1587421860 source:c:\users\ra y ma.rayma-pc\desktop\c++\ejercicio3.rectangulo\main.cpp
+	<iostream>
+	<stdlib.h>
+
+1597201502 source:c:\users\meli\desktop\desktop\c++\ejercicio3.rectangulo\src\rectangulo.cpp
+	"Rectangulo.h"
+
+1597201430 c:\users\meli\desktop\desktop\c++\ejercicio3.rectangulo\include\rectangulo.h
+	<iostream>
+	<stdlib.h>
+
+1597201610 source:c:\users\meli\desktop\desktop\c++\ejercicio3.rectangulo\main.cpp
+	"Rectangulo.h"
+

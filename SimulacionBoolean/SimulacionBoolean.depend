@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1597439754 source:c:\users\meli\desktop\desktop\c++\simulacionboolean\src\boolean.cpp
+	"Boolean.h"
+
+1597439648 c:\users\meli\desktop\desktop\c++\simulacionboolean\include\boolean.h
+	<iostream>
+	<stdlib.h>
+
+1597439507 source:c:\users\meli\desktop\desktop\c++\simulacionboolean\main.cpp
+	"Boolean.h"
+

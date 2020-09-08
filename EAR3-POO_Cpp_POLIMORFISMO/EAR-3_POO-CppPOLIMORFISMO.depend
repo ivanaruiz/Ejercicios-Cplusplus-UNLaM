@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1597720204 source:c:\users\meli\desktop\desktop\c++\ear3-poo_cpp_polimorfismo\division.cpp
+	"Division.h"
+
+1597719934 c:\users\meli\desktop\desktop\c++\ear3-poo_cpp_polimorfismo\division.h
+	"Operador.h"
+	"DivisionPorCeroException.h"
+
+1597720185 c:\users\meli\desktop\desktop\c++\ear3-poo_cpp_polimorfismo\operador.h
+	<string>
+	<iostream>
+
+1597715973 c:\users\meli\desktop\desktop\c++\ear3-poo_cpp_polimorfismo\divisionporceroexception.h
+	<exception>
+
+1597720181 source:c:\users\meli\desktop\desktop\c++\ear3-poo_cpp_polimorfismo\operador.cpp
+	"Operador.h"
+
+1597719905 source:c:\users\meli\desktop\desktop\c++\ear3-poo_cpp_polimorfismo\resta.cpp
+	"Resta.h"
+
+1597719884 c:\users\meli\desktop\desktop\c++\ear3-poo_cpp_polimorfismo\resta.h
+	"Operador.h"
+
+1597719842 source:c:\users\meli\desktop\desktop\c++\ear3-poo_cpp_polimorfismo\suma.cpp
+	"Suma.h"
+
+1597719794 c:\users\meli\desktop\desktop\c++\ear3-poo_cpp_polimorfismo\suma.h
+	<string>
+	"Operador.h"
+
+1597720254 source:c:\users\meli\desktop\desktop\c++\ear3-poo_cpp_polimorfismo\main.cpp
+	<iostream>
+	"Suma.h"
+	"Resta.h"
+	"Division.h"
+	"DivisionPorCeroException.h"
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1588476381 source:c:\users\meli\desktop\c++\funcionfriend\main.cpp
+	"Personaje.h"
+
+1588476914 c:\users\meli\desktop\c++\funcionfriend\include\personaje.h
+	<iostream>
+	<stdlib.h>
+
+1588476001 source:c:\users\meli\desktop\c++\funcionfriend\src\personaje.cpp
+	"Personaje.h"
+
+1597278651 source:c:\users\meli\desktop\desktop\c++\funcionfriend\main.cpp
+	"Personaje.h"
+
+1597278678 c:\users\meli\desktop\desktop\c++\funcionfriend\include\personaje.h
+	<iostream>
+	<stdlib.h>
+
+1597278734 source:c:\users\meli\desktop\desktop\c++\funcionfriend\src\personaje.cpp
+	"Personaje.h"
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1597435056 source:c:\users\meli\desktop\desktop\c++\herenciav3\main.cpp
+	"Persona.h"
+	"Alumno.h"
+
+1597435068 c:\users\meli\desktop\desktop\c++\herenciav3\include\persona.h
+	<iostream>
+	<stdlib.h>
+
+1590462493 source:c:\users\meli\desktop\desktop\c++\herenciav3\src\persona.cpp
+	"Persona.h"
+
+1590461255 source:c:\users\meli\desktop\desktop\c++\herenciav3\src\alumno.cpp
+	"Alumno.h"
+
+1597435196 c:\users\meli\desktop\desktop\c++\herenciav3\include\alumno.h
+	"Persona.h"
+

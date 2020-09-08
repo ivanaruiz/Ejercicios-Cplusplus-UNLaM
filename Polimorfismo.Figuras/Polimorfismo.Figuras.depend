@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1597550715 source:c:\users\meli\desktop\desktop\c++\polimorfismo.figuras\main.cpp
+	"Figura.h"
+	"Cuadrado.h"
+	"Circulo.h"
+
+1597550505 c:\users\meli\desktop\desktop\c++\polimorfismo.figuras\include\figura.h
+	<iostream>
+	<stdlib.h>
+
+1597550406 source:c:\users\meli\desktop\desktop\c++\polimorfismo.figuras\src\figura.cpp
+	"Figura.h"
+
+1591675921 source:c:\users\meli\desktop\desktop\c++\polimorfismo.figuras\src\cuadrado.cpp
+	"Cuadrado.h"
+
+1597550444 c:\users\meli\desktop\desktop\c++\polimorfismo.figuras\include\cuadrado.h
+	"Figura.h"
+
+1591675921 source:c:\users\meli\desktop\desktop\c++\polimorfismo.figuras\src\circulo.cpp
+	"Circulo.h"
+
+1597550494 c:\users\meli\desktop\desktop\c++\polimorfismo.figuras\include\circulo.h
+	"Figura.h"
+

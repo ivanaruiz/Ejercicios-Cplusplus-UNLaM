@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1587419949 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio2\main.cpp
+	"Perro.h"
+
+1587419915 source:c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio2\src\perro.cpp
+	"Perro.h"
+
+1587419995 c:\users\ra y ma.rayma-pc\desktop\progra 2020\ejercicio2\include\perro.h
+	<iostream>
+	<stdlib.h>
+
+1597190830 source:c:\users\meli\desktop\desktop\c++\ejercicio2\main.cpp
+	"Perro.h"
+
+1587419996 c:\users\meli\desktop\desktop\c++\ejercicio2\include\perro.h
+	<iostream>
+	<stdlib.h>
+
+1597190910 source:c:\users\meli\desktop\desktop\c++\ejercicio2\src\perro.cpp
+	"Perro.h"
+

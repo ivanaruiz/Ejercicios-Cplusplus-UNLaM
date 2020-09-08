@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1588461325 source:c:\users\meli\desktop\c++\sobrecargaoperador\src\punto.cpp
+	"Punto.h"
+
+1588461325 c:\users\meli\desktop\c++\sobrecargaoperador\include\punto.h
+	<iostream>
+	<stdlib.h>
+
+1588472847 source:c:\users\meli\desktop\c++\sobrecargaoperador\main.cpp
+	"Perro.h"
+
+1588471067 c:\users\meli\desktop\c++\sobrecargaoperador\include\manzana.h
+	<stdlib.h>
+	<iostream>
+
+1588470765 source:c:\users\meli\desktop\c++\sobrecargaoperador\src\manzana.cpp
+	"Manzana.h"
+
+1588471241 source:c:\users\meli\desktop\c++\sobrecargaoperador\src\a.cpp
+	"A.h"
+
+1588471570 c:\users\meli\desktop\c++\sobrecargaoperador\include\a.h
+	<iostream>
+	<stdlib.h>
+
+1588473947 c:\users\meli\desktop\c++\sobrecargaoperador\include\perro.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<sstream>
+
+1588473975 source:c:\users\meli\desktop\c++\sobrecargaoperador\src\perro.cpp
+	"Perro.h"
+
+1597281406 source:c:\users\meli\desktop\desktop\c++\sobrecargaoperador\src\perro.cpp
+	"Perro.h"
+
+1597281558 c:\users\meli\desktop\desktop\c++\sobrecargaoperador\include\perro.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<sstream>
+
+1597281382 source:c:\users\meli\desktop\desktop\c++\sobrecargaoperador\main.cpp
+	"Perro.h"
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1597637073 source:c:\users\meli\desktop\desktop\c++\excepcionesv2\main.cpp
+	<iostream>
+	<fstream>
+	"DividirPorCeroException.h"
+	"AperturaArchivoException.h"
+
+1593912412 source:c:\users\meli\desktop\desktop\c++\excepcionesv2\src\dividirporceroexception.cpp
+	"DividirPorCeroException.h"
+
+1593913085 c:\users\meli\desktop\desktop\c++\excepcionesv2\include\dividirporceroexception.h
+	<iostream>
+	<exception>
+
+1593915062 source:c:\users\meli\desktop\desktop\c++\excepcionesv2\src\aperturaarchivoexception.cpp
+	"AperturaArchivoException.h"
+
+1593915044 c:\users\meli\desktop\desktop\c++\excepcionesv2\include\aperturaarchivoexception.h
+	<iostream>
+	<exception>
+

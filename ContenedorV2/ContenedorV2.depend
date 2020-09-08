@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1597555853 source:c:\users\meli\desktop\desktop\c++\contenedorv2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<vector>
+	<stack>
+	<queue>
+

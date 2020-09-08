@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1588639142 source:c:\users\meli\desktop\c++\sobrecargaoperadores\main.cpp
+	"Persona.h"
+
+1588639247 c:\users\meli\desktop\c++\sobrecargaoperadores\include\persona.h
+	<iostream>
+	<stdlib.h>
+
+1588639247 source:c:\users\meli\desktop\c++\sobrecargaoperadores\src\persona.cpp
+	"Persona.h"
+
+1588639142 source:c:\users\meli\desktop\desktop\c++\sobrecargaoperadores\main.cpp
+	"Persona.h"
+
+1597285465 c:\users\meli\desktop\desktop\c++\sobrecargaoperadores\include\persona.h
+	<iostream>
+	<stdlib.h>
+
+1597285474 source:c:\users\meli\desktop\desktop\c++\sobrecargaoperadores\src\persona.cpp
+	"Persona.h"
+

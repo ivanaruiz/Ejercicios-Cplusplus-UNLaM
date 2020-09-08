@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1589086564 source:c:\users\meli\desktop\c++\numerocomplejo\main.cpp
+	"Complejo.h"
+
+1589086564 c:\users\meli\desktop\c++\numerocomplejo\include\complejo.h
+	<iostream>
+	<stdlib.h>
+
+1589086564 source:c:\users\meli\desktop\c++\numerocomplejo\src\complejo.cpp
+	"Complejo.h"
+
+1589090540 source:c:\users\meli\desktop\desktop\c++\numerocomplejo\main.cpp
+	"Complejo.h"
+
+1597372702 c:\users\meli\desktop\desktop\c++\numerocomplejo\include\complejo.h
+	<iostream>
+	<stdlib.h>
+

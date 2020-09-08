@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1590447015 source:c:\users\meli\desktop\desktop\c++\constructordecopia\main.cpp
+	"Fecha.h"
+
+1590446837 c:\users\meli\desktop\desktop\c++\constructordecopia\include\fecha.h
+	<iostream>
+	<stdlib.h>
+
+1590447013 source:c:\users\meli\desktop\desktop\c++\constructordecopia\src\fecha.cpp
+	"Fecha.h"
+

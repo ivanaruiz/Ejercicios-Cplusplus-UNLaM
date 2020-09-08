@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1588442545 source:c:\users\meli\desktop\c++\sobrecarga\main.cpp
+	"Fecha.h"
+
+1588443505 c:\users\meli\desktop\c++\sobrecarga\include\fecha.h
+	<iostream>
+
+1588443505 source:c:\users\meli\desktop\c++\sobrecarga\src\fecha.cpp
+	"Fecha.h"
+
+1597199035 source:c:\users\meli\desktop\desktop\c++\sobrecarga\main.cpp
+	"Fecha.h"
+
+1597199046 c:\users\meli\desktop\desktop\c++\sobrecarga\include\fecha.h
+	<iostream>
+	<stdlib.h>
+
+1597199162 source:c:\users\meli\desktop\desktop\c++\sobrecarga\src\fecha.cpp
+	"Fecha.h"
+

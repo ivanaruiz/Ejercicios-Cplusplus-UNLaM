@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1592189362 source:c:\users\meli\desktop\desktop\c++\templates.clases\main.cpp
+	"MiVector.h"
+
+1592188982 c:\users\meli\desktop\desktop\c++\templates.clases\include\mivector.h
+	<iostream>
+	<stdlib.h>
+
+1592189387 source:c:\users\meli\desktop\desktop\c++\templates.clases\src\mivector.cpp
+	"MiVector.h"
+

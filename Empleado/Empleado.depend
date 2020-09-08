@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1588543462 source:c:\users\meli\desktop\c++\empleado\main.cpp
+	"Empleado.h"
+
+1588543227 c:\users\meli\desktop\c++\empleado\include\empleado.h
+	<iostream>
+	<stdlib.h>
+
+1588543425 source:c:\users\meli\desktop\c++\empleado\src\empleado.cpp
+	"Empleado.h"
+
+1588543462 source:c:\users\meli\desktop\desktop\c++\empleado\main.cpp
+	"Empleado.h"
+
+1588544311 c:\users\meli\desktop\desktop\c++\empleado\include\empleado.h
+	<iostream>
+	<stdlib.h>
+
+1588543425 source:c:\users\meli\desktop\desktop\c++\empleado\src\empleado.cpp
+	"Empleado.h"
+

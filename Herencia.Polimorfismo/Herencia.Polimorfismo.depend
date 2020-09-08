@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1597557992 source:c:\users\meli\desktop\desktop\c++\herencia.polimorfismo\main.cpp
+	"Animal.h"
+	"Perro.h"
+	"Humano.h"
+
+1597557871 c:\users\meli\desktop\desktop\c++\herencia.polimorfismo\include\animal.h
+	<iostream>
+	<stdlib.h>
+
+1597557864 source:c:\users\meli\desktop\desktop\c++\herencia.polimorfismo\src\animal.cpp
+	"Animal.h"
+
+1597557889 source:c:\users\meli\desktop\desktop\c++\herencia.polimorfismo\src\humano.cpp
+	"Humano.h"
+
+1597557876 c:\users\meli\desktop\desktop\c++\herencia.polimorfismo\include\humano.h
+	"Animal.h"
+
+1597557899 c:\users\meli\desktop\desktop\c++\herencia.polimorfismo\include\perro.h
+	"Animal.h"
+
+1597557909 source:c:\users\meli\desktop\desktop\c++\herencia.polimorfismo\src\perro.cpp
+	"Perro.h"
+

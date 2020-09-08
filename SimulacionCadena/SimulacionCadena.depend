@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1597466215 source:c:\users\meli\desktop\desktop\c++\simulacioncadena\src\cadena.cpp
+	"Cadena.h"
+
+1597465852 c:\users\meli\desktop\desktop\c++\simulacioncadena\include\cadena.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+
+1597466200 source:c:\users\meli\desktop\desktop\c++\simulacioncadena\main.cpp
+	"Cadena.h"
+

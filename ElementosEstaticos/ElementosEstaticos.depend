@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1588615290 source:c:\users\meli\desktop\c++\elementosestaticos\main.cpp
+	"Persona.h"
+
+1588615369 c:\users\meli\desktop\c++\elementosestaticos\include\persona.h
+	<iostream>
+	<stdlib.h>
+
+1588615552 source:c:\users\meli\desktop\c++\elementosestaticos\src\persona.cpp
+	"Persona.h"
+

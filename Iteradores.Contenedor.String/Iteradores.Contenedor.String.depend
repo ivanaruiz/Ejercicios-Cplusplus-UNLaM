@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592184191 source:c:\users\meli\desktop\desktop\c++\iteradores.contenedor.string\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+

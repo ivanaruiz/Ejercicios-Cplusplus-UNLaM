@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1588623403 source:c:\users\meli\desktop\c++\metodosestaticosfuncionesestaticas\src\persona.cpp
+	"Persona.h"
+
+1588623479 c:\users\meli\desktop\c++\metodosestaticosfuncionesestaticas\include\persona.h
+	<iostream>
+	<stdlib.h>
+
+1588623229 source:c:\users\meli\desktop\c++\metodosestaticosfuncionesestaticas\main.cpp
+	"Persona.h"
+
+1597360730 source:c:\users\meli\desktop\desktop\c++\metodosestaticosfuncionesestaticas\main.cpp
+	"Persona.h"
+
+1597360574 c:\users\meli\desktop\desktop\c++\metodosestaticosfuncionesestaticas\include\persona.h
+	<iostream>
+	<stdlib.h>
+
+1597360699 source:c:\users\meli\desktop\desktop\c++\metodosestaticosfuncionesestaticas\src\persona.cpp
+	"Persona.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1597281529 source:c:\users\meli\desktop\desktop\c++\stringstream.tostring.memdinamica\main.cpp
+	"Perro.h"
+
+1597281590 c:\users\meli\desktop\desktop\c++\stringstream.tostring.memdinamica\include\perro.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<sstream>
+
+1597281569 source:c:\users\meli\desktop\desktop\c++\stringstream.tostring.memdinamica\src\perro.cpp
+	"Perro.h"
+

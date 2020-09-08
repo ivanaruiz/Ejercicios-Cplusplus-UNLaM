@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1597513879 source:c:\users\meli\desktop\desktop\c++\ea2-prisma\main.cpp
+	"main.h"
+
+1597512288 c:\users\meli\desktop\desktop\c++\ea2-prisma\main.h
+	<iostream>
+	<stdlib.h>
+	"Prisma.h"
+
+1597513934 c:\users\meli\desktop\desktop\c++\ea2-prisma\prisma.h
+	<iostream>
+	<string>
+
+1597513934 source:c:\users\meli\desktop\desktop\c++\ea2-prisma\prisma.cpp
+	"Prisma.h"
+

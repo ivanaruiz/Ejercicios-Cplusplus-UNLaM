@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1592104360 source:c:\users\meli\desktop\progra 2020\herencia.clasesabstractas.protectedv2\src\animal.cpp
+	"Animal.h"
+
+1592106317 c:\users\meli\desktop\progra 2020\herencia.clasesabstractas.protectedv2\include\animal.h
+	<iostream>
+
+1592105698 source:c:\users\meli\desktop\progra 2020\herencia.clasesabstractas.protectedv2\main.cpp
+	"Animal.h"
+	"Perro.h"
+	"Gato.h"
+
+1592106330 c:\users\meli\desktop\progra 2020\herencia.clasesabstractas.protectedv2\include\perro.h
+	"Animal.h"
+
+1592106337 c:\users\meli\desktop\progra 2020\herencia.clasesabstractas.protectedv2\include\gato.h
+	"Animal.h"
+
+1592105220 source:c:\users\meli\desktop\progra 2020\herencia.clasesabstractas.protectedv2\src\gato.cpp
+	"Gato.h"
+
+1592104632 source:c:\users\meli\desktop\progra 2020\herencia.clasesabstractas.protectedv2\src\perro.cpp
+	"Perro.h"
+
+1597630594 source:c:\users\meli\desktop\desktop\c++\herencia.clasesabstractas.protectedv2\main.cpp
+	"Animal.h"
+	"Perro.h"
+	"Gato.h"
+
+1597630913 c:\users\meli\desktop\desktop\c++\herencia.clasesabstractas.protectedv2\include\animal.h
+	<iostream>
+	<stdlib.h>
+
+1597631000 c:\users\meli\desktop\desktop\c++\herencia.clasesabstractas.protectedv2\include\perro.h
+	"Animal.h"
+
+1597631025 c:\users\meli\desktop\desktop\c++\herencia.clasesabstractas.protectedv2\include\gato.h
+	"Animal.h"
+
+1592104360 source:c:\users\meli\desktop\desktop\c++\herencia.clasesabstractas.protectedv2\src\animal.cpp
+	"Animal.h"
+
+1592105220 source:c:\users\meli\desktop\desktop\c++\herencia.clasesabstractas.protectedv2\src\gato.cpp
+	"Gato.h"
+
+1592104632 source:c:\users\meli\desktop\desktop\c++\herencia.clasesabstractas.protectedv2\src\perro.cpp
+	"Perro.h"
+

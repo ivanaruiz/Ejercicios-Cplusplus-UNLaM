@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592179946 source:c:\users\meli\desktop\desktop\c++\contenedor.string\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+

@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1597638816 source:c:\users\meli\desktop\desktop\c++\excepcionesv3\main.cpp
+	<iostream>
+	"Rectangulo.h"
+
+1597638835 c:\users\meli\desktop\desktop\c++\excepcionesv3\include\rectangulo.h
+	<iostream>
+	<stdlib.h>
+	"MedidasException.h"
+
+1593929949 source:c:\users\meli\desktop\desktop\c++\excepcionesv3\src\rectangulo.cpp
+	"Rectangulo.h"
+	"MedidasException.h"
+
+1593928058 c:\users\meli\desktop\desktop\c++\excepcionesv3\include\baseexception.h
+	<iostream>
+	<exception>
+
+1593927952 source:c:\users\meli\desktop\desktop\c++\excepcionesv3\src\baseexception.cpp
+	"BaseException.h"
+
+1593928407 c:\users\meli\desktop\desktop\c++\excepcionesv3\include\alturaexception.h
+	<iostream>
+	<exception>
+
+1593928426 source:c:\users\meli\desktop\desktop\c++\excepcionesv3\src\alturaexception.cpp
+	"AlturaException.h"
+
+1593929665 c:\users\meli\desktop\desktop\c++\excepcionesv3\include\medidasexception.h
+	<iostream>
+	<exception>
+
+1593928967 source:c:\users\meli\desktop\desktop\c++\excepcionesv3\src\medidasexception.cpp
+	"MedidasException.h"
+

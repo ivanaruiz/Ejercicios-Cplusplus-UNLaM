@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1588458978 source:c:\users\meli\desktop\c++\getterssetters\main.cpp
+	"Punto.h"
+
+1588460776 c:\users\meli\desktop\c++\getterssetters\include\punto.h
+	<iostream>
+	<stdlib.h>
+
+1588460776 source:c:\users\meli\desktop\c++\getterssetters\src\punto.cpp
+	"Punto.h"
+
+1588460805 source:c:\users\meli\desktop\desktop\c++\getterssetters\main.cpp
+	"Punto.h"
+
+1597198236 c:\users\meli\desktop\desktop\c++\getterssetters\include\punto.h
+	<iostream>
+	<stdlib.h>
+
+1597198308 source:c:\users\meli\desktop\desktop\c++\getterssetters\src\punto.cpp
+	"Punto.h"
+

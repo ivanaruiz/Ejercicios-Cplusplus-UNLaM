@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1588617739 source:c:\users\meli\desktop\c++\apuntadoraclase\src\persona.cpp
+	"Persona.h"
+
+1588617739 c:\users\meli\desktop\c++\apuntadoraclase\include\persona.h
+	<iostream>
+	<stdlib.h>
+
+1597290104 source:c:\users\meli\desktop\desktop\c++\apuntadoraclase\src\persona.cpp
+	"Persona.h"
+
+1588617739 c:\users\meli\desktop\desktop\c++\apuntadoraclase\include\persona.h
+	<iostream>
+	<stdlib.h>
+
+1597290223 source:c:\users\meli\desktop\desktop\c++\apuntadoraclase\main.cpp
+	"Persona.h"
+

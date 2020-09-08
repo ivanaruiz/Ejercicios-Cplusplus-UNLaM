@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1597364742 source:c:\users\meli\desktop\desktop\c++\modosdeinstanciarobjetos\main.cpp
+	"Persona.h"
+
+1597364520 c:\users\meli\desktop\desktop\c++\modosdeinstanciarobjetos\include\persona.h
+	<iostream>
+	<stdlib.h>
+
+1597364512 source:c:\users\meli\desktop\desktop\c++\modosdeinstanciarobjetos\src\persona.cpp
+	"Persona.h"
+

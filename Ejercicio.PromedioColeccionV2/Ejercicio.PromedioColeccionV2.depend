@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1588378045 source:c:\users\meli\desktop\c++\ejercicio.promediocoleccionv2\src\promedio.cpp
+	"Promedio.h"
+
+1588378735 c:\users\meli\desktop\c++\ejercicio.promediocoleccionv2\include\promedio.h
+	<iostream>
+
+1588378627 source:c:\users\meli\desktop\c++\ejercicio.promediocoleccionv2\main.cpp
+	"Promedio.h"
+
+1597257044 source:c:\users\meli\desktop\desktop\c++\ejercicio.promediocoleccionv2\main.cpp
+	"Promedio.h"
+
+1597257167 c:\users\meli\desktop\desktop\c++\ejercicio.promediocoleccionv2\include\promedio.h
+	<stdlib.h>
+	<iostream>
+
+1597257172 source:c:\users\meli\desktop\desktop\c++\ejercicio.promediocoleccionv2\src\promedio.cpp
+	"Promedio.h"
+

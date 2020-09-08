@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1592102782 source:c:\users\meli\desktop\desktop\c++\herencia.clasesabstractas.protected\main.cpp
+	"Animal.h"
+	"Perro.h"
+	"Gato.h"
+
+1597627893 c:\users\meli\desktop\desktop\c++\herencia.clasesabstractas.protected\include\animal.h
+	<iostream>
+	<stdlib.h>
+
+1597627900 source:c:\users\meli\desktop\desktop\c++\herencia.clasesabstractas.protected\src\animal.cpp
+	"Animal.h"
+
+1597627972 c:\users\meli\desktop\desktop\c++\herencia.clasesabstractas.protected\include\perro.h
+	"Animal.h"
+
+1597627980 source:c:\users\meli\desktop\desktop\c++\herencia.clasesabstractas.protected\src\perro.cpp
+	"Perro.h"
+
+1597628028 source:c:\users\meli\desktop\desktop\c++\herencia.clasesabstractas.protected\src\gato.cpp
+	"Gato.h"
+
+1597628012 c:\users\meli\desktop\desktop\c++\herencia.clasesabstractas.protected\include\gato.h
+	"Animal.h"
+

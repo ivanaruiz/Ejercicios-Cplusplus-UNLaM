@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1597433777 source:c:\users\meli\desktop\desktop\c++\herenciav2\src\mascota.cpp
+	"Mascota.h"
+
+1597433766 c:\users\meli\desktop\desktop\c++\herenciav2\include\mascota.h
+	<iostream>
+	<stdlib.h>
+
+1590460461 source:c:\users\meli\desktop\desktop\c++\herenciav2\main.cpp
+	"Mascota.h"
+	"Perro.h"
+	"Gato.h"
+
+1597433824 c:\users\meli\desktop\desktop\c++\herenciav2\include\perro.h
+	"Mascota.h"
+
+1597433852 source:c:\users\meli\desktop\desktop\c++\herenciav2\src\perro.cpp
+	"Perro.h"
+
+1597433909 c:\users\meli\desktop\desktop\c++\herenciav2\include\gato.h
+	"Mascota.h"
+
+1597433915 source:c:\users\meli\desktop\desktop\c++\herenciav2\src\gato.cpp
+	"Gato.h"
+
